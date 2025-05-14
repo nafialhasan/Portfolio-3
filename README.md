@@ -84,5 +84,6 @@ The dataset includes the following fields:
 
 ## Contact Information
 
-For any queries or further information, please contact me at [nafialhasan@gmail.com].
+For any queries or further information, feel free to contact me at [nafialhasan@gmail.com](mailto:nafialhasan@gmail.com).  
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/nafialhasan/).
 
